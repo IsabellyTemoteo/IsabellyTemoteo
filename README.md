@@ -1,4 +1,4 @@
-### Oii eu sou a Isabelly Temoteo, atualmente técnica em informática e estudante de engenharia de computação! 👋
+### Oii eu sou a Isabelly, atualmente técnica em informática e estudante de engenharia de computação! 👋
 
 <div align="center">
   <a href="https://github.com/IsabellyTemoteo">
